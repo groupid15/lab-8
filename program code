@@ -81,6 +81,7 @@ void Man(void)
 }
 void main()
 {
+    system("COLOR 5e");
     initialsem(woman,1);
     initialsem(man,1);
     initialsem(max_capacity,4);
